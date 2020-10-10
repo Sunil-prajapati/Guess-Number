@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "516957057330",
+    "firebase_url": "https://loginui-e090a.firebaseio.com",
+    "project_id": "loginui-e090a",
+    "storage_bucket": "loginui-e090a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:516957057330:android:a9e5ae4a598a726c53a72b",
+        "android_client_info": {
+          "package_name": "com.socialApp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "516957057330-tbr5u23k8plfvo45rf4sv56j71ohr3nn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbEte1bc4PZyVlSblrw9ayYuuyrBsEfGI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "516957057330-tbr5u23k8plfvo45rf4sv56j71ohr3nn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
